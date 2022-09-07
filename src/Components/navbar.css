@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Special+Elite&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Patua+One&display=swap');
+
+
+body{
+    background-image: url('bg.jpg');
+    height: 80px;
+    width: 100px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.left h1{
+    font-size: 65px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Special Elite', cursive;
+}
+.left button{
+    height: 50px;
+    width: 160px;
+    background-color: orange;
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Special Elite', cursive;
+    font-size: 20px;
+    margin-left: 100px;
+}
+.left button:hover{
+    background-color: red;
+}
+.left h2{
+    margin-left: 1000px;
+    margin-top: -350px;
+    font-size: 50px;
+    white-space: nowrap;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Patua One', cursive;
+}
+hr{
+    width: 330px;
+    margin-left: 1000px;
+}
+.left h3{
+    margin-left: 1000px;
+    color: rgb(255, 234, 0);
+}
